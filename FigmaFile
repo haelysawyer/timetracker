@@ -1,0 +1,8 @@
+display: flex;
+width: 685px;
+padding: 38px 33px;
+flex-direction: column;
+align-items: flex-start;
+gap: 106px;
+flex-shrink: 0;border-radius: 18px;
+background: rgba(255, 255, 255, 0.12);<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/design/7cHPfp0JDKkE7Bsw7VhDzl/Local-Ski-Bum-Redesign?node-id=4-68&m=dev&embed-host=share" allowfullscreen></iframe>
